@@ -51,7 +51,7 @@
     </fileSets>
 
     <modules>
-        <module id="${rootArtifactId}-assembly" dir="__rootArtifactId__-assembly" name="${rootArtifactId}-assembly">
+        <module id="${rootArtifactId}-boot" dir="__rootArtifactId__-boot" name="${rootArtifactId}-boot">
             <fileSets>
                 <fileSet encoding="UTF-8" filtered="true" packaged="true">
                     <directory>src/main/java</directory>
